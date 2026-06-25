@@ -1,4 +1,4 @@
-## Hi!!! [Imran](https://imran-silk.vercel.app) here.
+## Hi! [Imran](https://imran-silk.vercel.app) here.
 
 i build things.
 
