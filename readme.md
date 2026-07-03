@@ -1,9 +1,3 @@
-## Hi! [Imran](https://imran-silk.vercel.app) here.
+full-stack engineer.
 
-i build things.
-
-currently building [mindflow](https://mindflow-eight-green.vercel.app/) — making documentation a little less painful.
-
-mostly AI, backend systems, and developer tools.
-
-figuring it out as i go.
+currently building ai tools, developer platforms, and products i'd actually use.
