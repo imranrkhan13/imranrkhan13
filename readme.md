@@ -1,5 +1,7 @@
 Full-Stack Engineer
 
-[more than a README.](https://imran-silk.vercel.app)
+building ai tools, developer platforms, and products i'd actually use.
 
-currently building ai tools, developer platforms, and products i'd actually use.
+[more work.](https://imran-silk.vercel.app)
+
+
